@@ -1,11 +1,7 @@
+theme: jekyll-theme-minimal
 title: Francisco's projects
 description: >
   Data Analyst | Technical Communication Specialist
   <br><br>
-  Second description
   <br><br>
-  <br><br>
-  <a href="https://github.com/FranciscoGalan">GitHub Profile</a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/francisco-galan/">LinkedIn Profile</a>
-theme: jekyll-theme-minimal
+  <a href="https://github.com/FranciscoGalan">GitHub Profile</a> | <a href="https://www.linkedin.com/in/francisco-galan/">LinkedIn Profile</a>
