@@ -1,7 +1,18 @@
+title: <p align="center"> Francisco Galan </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/francisco-galan/">LinkedIn</a> |
+  <a href="https://github.com/FranciscoGalan">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I'm a data analyst with an expertise in technical communication.
+  <br><br>
+  I'm currently the Data Analysis Lead at Tandamos (a fintech startup) and a Professor of Technical Communication at Mexico's most important Economics, Law, and Political Science institution of higher learning.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
-title: Francisco's projects
-description: >
-  Data Analyst | Technical Communication Specialist
-  <br><br>
-  <br><br>
-  <a href="https://github.com/FranciscoGalan">GitHub Profile</a> | <a href="https://www.linkedin.com/in/francisco-galan/">LinkedIn Profile</a>
