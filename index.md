@@ -10,7 +10,11 @@ An ETL dashboard that tracks affiliation, conversion, ticket resolution, and vir
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Business%20Health%20Dashboard.png)
 
+
+
 ------
+
+
 
 ## Opinion Piece Generator
 
@@ -20,7 +24,11 @@ A neural network which writes opinion pieces based on the style of a columnist a
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Opinion_Piece_Generator/main/Media/newspaper_cover.JPG)
 
+
+
 ---
+
+
 ## Bicycle Commuting Analysis
 
 Analyzed government data from 2015 to 2020 to determine which hour, day, month, and location is the safest to travel by bicycle in Mexico City.
@@ -32,6 +40,8 @@ Analyzed government data from 2015 to 2020 to determine which hour, day, month, 
 
 
 ---
+
+
 ## Goodreads Book Recommender
 
 A data analysis pipeline which recommends a list of books based on a Goodreads user's reviews, his or her friend's, and the books' average  ratings.
