@@ -24,7 +24,7 @@ Analyzed government data from 2015 to 2020 to determine which hour, day, month, 
 
 A data analysis pipeline which recommends a list of books based on a Goodreads user's reviews, his or her friend's, and the books' average  ratings.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends) [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Goodreads_Book_Recommender/blob/main/main.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Goodreads_Book_Recommender) [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Goodreads_Book_Recommender/blob/main/main.ipynb)
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Goodreads_Book_Recommender/main/Media/recommended_books_francisco_galan.PNG)
 
