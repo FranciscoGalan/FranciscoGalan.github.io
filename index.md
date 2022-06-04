@@ -1,5 +1,15 @@
 # Projects
 ---
+## Business Health Dashboard
+
+A dashboard that tracks affiliation, conversion, ticket resolution, and virality metric by cohort.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Business_Health_Dashboard)
+
+![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Business%20Health%20Dashboard.png)
+
+------
+
 ## Opinion Piece Generator
 
 A neural network which writes opinion pieces based on the style of a columnist and recent news.
