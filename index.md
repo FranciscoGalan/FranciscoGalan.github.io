@@ -1,8 +1,10 @@
 # Projects
----
+
+------
+
 ## Business Health Dashboard
 
-A dashboard that tracks affiliation, conversion, ticket resolution, and virality metric by cohort.
+A dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Business_Health_Dashboard)
 
