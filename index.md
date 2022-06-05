@@ -4,7 +4,7 @@
 
 ## Business Health Dashboard
 
-An ETL dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
+An automated dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Business_Health_Dashboard)
 
