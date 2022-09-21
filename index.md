@@ -2,6 +2,14 @@
 
 ------
 
+## Sample Tableau Dashboards
+
+A small selection of some of the dashboards I've built in Tableau
+
+![](https://github.com/FranciscoGalan/FranciscoGalan.github.io/blob/main/images/Sample%20dashboards/Sample_dashboards.png)
+
+
+
 ## Business Health Dashboard
 
 An automated dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
