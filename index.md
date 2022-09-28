@@ -4,7 +4,7 @@
 
 ## Sample Tableau Dashboards
 
-A small selection of some of the dashboards I've built in Tableau
+A selection of some of the dashboards I've built in Tableau
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Sample_dashboards.png)
 
