@@ -6,7 +6,7 @@
 
 A selection of some of the dashboards I've built in Tableau
 
-![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Sample_dashboards.png)
+![](https://github.com/FranciscoGalan/FranciscoGalan.github.io/blob/28422d2709ad2985606f4826e60dea6c166d0407/images/Sample%20dashboards/Sample_dashboards2.png)
 
 
 
