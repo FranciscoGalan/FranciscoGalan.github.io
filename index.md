@@ -4,11 +4,23 @@
 
 ## Sample Tableau Dashboards
 
-A selection of some of the dashboards I've built in Tableau
+*My philosophy*: I use a subtle, subdued visual design, with little or no storytelling, to draw attention to where it's really needed. 
 
-![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash7.PNG)
+![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
+
+
+
+Most importantly, I try to make it easy for users to answer actual business questions they might have.
+
+![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Attribution_dash.PNG)
+
+
+
+I give priority to simple yet effective charts rather than inappropriate media or meaningless graph variety.
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash8.PNG)
+
+But if complexity or unusual layouts are called for, I try find a way through.
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash3.PNG)
 
