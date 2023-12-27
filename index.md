@@ -4,7 +4,7 @@
 
 ## Sample Tableau Dashboards
 
-*My philosophy*: I use a subtle, subdued visual design, with little or no storytelling, to draw attention to where it's really needed. 
+*My philosophy*: I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed. 
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
 
@@ -20,7 +20,7 @@ I give priority to simple yet effective charts rather than inappropriate media o
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash8.PNG)
 
-But if complexity or unusual layouts are called for, I try find a way through.
+But if complexity or unusual layouts are called for, I find a way through.
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash3.PNG)
 
@@ -37,20 +37,6 @@ An automated dashboard that tracks affiliation, conversion, ticket resolution, a
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Business_Health_Dashboard)
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Business%20Health%20Dashboard.png)
-
-
-
-------
-
-
-
-## Opinion Piece Generator
-
-A neural network which writes opinion pieces based on the style of a columnist and recent news.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Opinion_Piece_Generator)
-
-![](https://raw.githubusercontent.com/FranciscoGalan/Opinion_Piece_Generator/main/Media/newspaper_cover.JPG)
 
 
 
