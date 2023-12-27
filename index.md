@@ -18,7 +18,7 @@ Most importantly, I try to make it easy for users to answer actual business ques
 
 I give priority to simple yet effective charts rather than inappropriate media or meaningless graph variety.
 
-![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash8.PNG)
+![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash9.PNG)
 
 But if complexity or unusual layouts are called for, I find a way through.
 
