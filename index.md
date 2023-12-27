@@ -2,7 +2,7 @@
 
 *My philosophy*: I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed. 
 
-![<img src="https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG"](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
+![name (<img src="https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG")](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
 
 
 
