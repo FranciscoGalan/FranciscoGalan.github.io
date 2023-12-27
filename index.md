@@ -1,7 +1,3 @@
-# Projects
-
-------
-
 ## Sample Tableau Dashboards
 
 *My philosophy*: I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed. 
