@@ -2,9 +2,9 @@
 
 *My philosophy*: I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed. 
 
-![name (<img src="https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG")](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
+![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)
 
-
+<div style="text-align: right">[Link to dashboard](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/LOB_performance_dash.PNG)</div>
 
 Most importantly, I try to make it easy for users to answer actual business questions they might have.
 
