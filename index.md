@@ -20,15 +20,15 @@ I give priority to **simple** yet effective charts rather than inappropriate med
 
 Most importantly, I try to make it easy for users to answer actual **business questions** they might have.
 
-[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Data_availability.png)](https://public.tableau.com/views/MarketingPerformanceDashboard_17037102320280/Performance?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Data_availability.png)](https://public.tableau.com/views/DataAvailabilitydashboard/Dataavailability?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
-[![Attribution](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash3.PNG)](https://public.tableau.com/views/Marketingattributiondashboard/Mainmetrics?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Attribution](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash3.PNG)](https://public.tableau.com/views/Keywordsdashboard/Adthena?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
-[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/AVC.JPG)](https://public.tableau.com/views/MarketingPerformanceDashboard_17037102320280/Performance?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/AVC.JPG)](https://public.tableau.com/views/AmazonVendorCentraldashboardswithlandingpage/LandingPage?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
