@@ -1,18 +1,20 @@
 ## Sample Tableau Dashboards
 
-*My philosophy*: I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed.
+*Click on a dashboard to go to its version in Tableau Public*:
+
+**My approach:** I use a subtle, subdued visual design, with little storytelling, to draw attention to where it's really needed.
 
 [![Dash1](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash9.PNG)](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Dash9.PNG)
 
 
 
-Most importantly, I try to make it easy for users to answer actual business questions they might have.
+Most importantly, I try to make it easy for users to answer actual **business questions** they might have.
 
 [![Attribution](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Attribution_dash.PNG)](https://public.tableau.com/views/Marketingattributiondashboard/Mainmetrics?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
-I give priority to simple yet effective charts rather than inappropriate media or meaningless graph variety.
+I give priority to **simple** yet effective charts rather than inappropriate media or meaningless graph variety.
 
 [![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Adthena2.PNG)](https://public.tableau.com/views/Keywordsdashboard/Adthena?:language=en-US&:display_count=n&:origin=viz_share_link)
 
