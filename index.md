@@ -4,17 +4,19 @@
 
 **My approach:** I use a subtle, subdued visual design to draw attention to where it's really needed.
 
-[![Dash1](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/G_Ads.JPG)](https://public.tableau.com/views/GoogleAdsDashboardwthinlinegraphs/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-But if complexity or unusual layouts are called for, I find a way through.
-
-[![Dash1](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/SEO_Perf.png)](https://public.tableau.com/views/SEOPerformanceDashboard_17141566194850/Main?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Region_Overview.JPG)](https://public.tableau.com/views/DashboardSuperTablebyRegionandCountry/RegionOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
 I give priority to **simple** yet effective charts rather than inappropriate media or meaningless graph variety.
 
-[![](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/Region_Overview.JPG)](https://public.tableau.com/views/DashboardSuperTablebyRegionandCountry/RegionOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![Dash1](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/G_Ads.JPG)](https://public.tableau.com/views/GoogleAdsDashboardwthinlinegraphs/Overview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+
+But if complexity or unusual layouts are called for, I find a way through.
+
+[![Dash1](https://raw.githubusercontent.com/FranciscoGalan/FranciscoGalan.github.io/main/images/Sample%20dashboards/SEO_Perf.png)](https://public.tableau.com/views/SEOPerformanceDashboard_17141566194850/Main?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
