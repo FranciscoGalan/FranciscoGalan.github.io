@@ -44,6 +44,8 @@ Most importantly, I try to make it easy for users to answer actual **business qu
 
 ## Business Health Dashboard
 
+**Tools**: Python, SQL, Google Sheets
+
 An automated dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Business_Health_Dashboard)
@@ -57,6 +59,8 @@ An automated dashboard that tracks affiliation, conversion, ticket resolution, a
 
 ## Bicycle Commuting Analysis
 
+**Tools**: Python (pandas, regex, numpy, seaborn), Tableau, Git
+
 Analyzed government data from 2015 to 2020 to determine which hour, day, month, and location is the safest to travel by bicycle in Mexico City.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/FranciscoGalan/Bicycle_Commuting_Mexico_City) [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Bicycle_Commuting_Mexico_City/blob/main/main.ipynb)
@@ -69,6 +73,8 @@ Analyzed government data from 2015 to 2020 to determine which hour, day, month, 
 
 
 ## Goodreads Book Recommender
+
+**Tools**: Python (web scrapping, pandas, scipy)
 
 A data analysis pipeline which recommends a list of books based on a Goodreads user's reviews, his or her friend's, and the books' average  ratings.
 
